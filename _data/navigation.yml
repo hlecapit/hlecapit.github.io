@@ -14,7 +14,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /teaching.html
-      - titles:
+
+  - titles:
         # @start locale config
       en      : &EN       Research
       en-GB   : *EN
@@ -29,6 +30,7 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /research.html
+
   - titles:
       # @start locale config
       en      : &EN       Archive
