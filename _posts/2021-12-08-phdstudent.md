@@ -7,4 +7,4 @@ We are proposing  a PhD Thesis on "Combining educational resources through graph
 
 <!--more-->
 
-More  details available here: http://people.irisa.fr/Zoltan.Miklos/2021_PhD_position_at_IRISA.pdf
+More  details available [here](http://people.irisa.fr/Zoltan.Miklos/2021_PhD_position_at_IRISA.pdf)
