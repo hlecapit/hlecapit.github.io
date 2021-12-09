@@ -16,13 +16,16 @@ titles:
   # @end locale config
 key: page-pubs
 ---
-
+<ul>
 {% assign publications = site.publications | sort: "year" | reverse %}
 {% for pub in publications %}
+<li>
 <div class="pubitem">
   <div class="pubtitle">{{ pub.title }}</div>
   <div class="pubauthors">{{ pub.authors }}</div>
   <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
   <div class="publink"> <a href="{{pub.doi}}"><i class="far fa-file-pdf"></i> Paper</a></div>
 </div>
+</li>
 {% endfor %}
+</ul>
