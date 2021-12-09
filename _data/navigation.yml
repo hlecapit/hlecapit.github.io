@@ -77,4 +77,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /pubs.html
+    url: /publications.html
