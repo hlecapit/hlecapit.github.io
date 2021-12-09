@@ -23,6 +23,6 @@ key: page-pubs
   <div class="pubtitle">{{ pub.title }}</div>
   <div class="pubauthors">{{ pub.authors }}</div>
   <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
-  <div class="publink"> <a href="{{pub.doi}}"><i class="far fa-file-pdf"></i> PDF</a</div>
+  <div class="publink"> <a href="{{pub.doi}}"><i class="far fa-file-pdf"></i> Paper</a></div>
 </div>
 {% endfor %}
