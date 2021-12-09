@@ -31,3 +31,5 @@ I am Ass. Professor of Computer Science at Nantes Université, Polytech Nantes. 
 My general research area is applied machine learning for comparing and learning representation of complex data.
 I am also interested in the general thematic of equity, fairness, transparency and explainability of AI models.
 Applications particularly include Open Educationnal Ressources and  their easy usability for any user. 
+
+Chech the [research page](https://hlecapit.github.io/research.html) for more details on my research!
