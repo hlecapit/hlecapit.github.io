@@ -26,9 +26,9 @@ titles:
 key: page-about
 ---
 
-I am Ass. Professor of Computer Science at Nantes Université, Polytech Nantes. I am the head the [Data Science Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/data-science-masters-degree-ds) program
+I am Ass. Professor of Computer Science at Nantes Université, Polytech Nantes. I am the head the [Data Science Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/data-science-masters-degree-ds) program.
 
-I am doing my research with the LS2N lab, and more specifically with the DUKe research team.
+I am doing my research with the [LS2N](https://www.ls2n.fr) lab, and more specifically with the DUKe research team.
 
 My general research area is applied machine learning for comparing and learning representation of complex data.
 I am also interested in the general thematic of equity, fairness, transparency and explainability of AI models.
