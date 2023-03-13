@@ -16,7 +16,7 @@ titles:
   # @end locale config
 key: page-pubs
 ---
-(starting from 2012)
+(starting from 2020)
 <ul>
 {% assign publications = site.publications | sort: "year" | reverse %}
 {% for pub in publications %}
