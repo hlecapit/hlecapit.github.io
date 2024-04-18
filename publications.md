@@ -16,7 +16,7 @@ titles:
   # @end locale config
 key: page-pubs
 ---
-Starting from 2020, you can also check [Hal profile](https://hal.science/search/index/q/*/authIdHal_s/hoel-le-capitaine) and [Google Scholar profile](https://scholar.google.com/citations?user=JadlFKYAAAAJ&hl=en)
+Starting from 2020, you can also check my [Hal profile](https://hal.science/search/index/q/*/authIdHal_s/hoel-le-capitaine) and my [Google Scholar profile](https://scholar.google.com/citations?user=JadlFKYAAAAJ&hl=en) for older publications.
 <ul>
 {% assign publications = site.publications | sort: "year" | reverse %}
 {% for pub in publications %}
