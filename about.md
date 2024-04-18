@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-I am Ass. Professor of Computer Science at Nantes Université, Polytech Nantes. I am the head the [Data Science Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/data-science-masters-degree-ds) program.
+Since 2011, I am Ass. Professor of Computer Science at Nantes Université, Polytech Nantes. I am the head the [Data Science Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/data-science-masters-degree-ds) program.
 
 I am doing my research with the [LS2N](https://www.ls2n.fr) lab, and more specifically with the DUKe research team.
 
@@ -35,3 +35,5 @@ I am also interested in the general thematic of equity, fairness, transparency a
 Applications particularly include Open Educationnal Ressources and  their easy usability for any user. 
 
 Check the [research page](https://hlecapit.github.io/research.html) for more details on my research!
+
+Before that, I obtained my PhD in 2009, University of La Rochelle, France.
