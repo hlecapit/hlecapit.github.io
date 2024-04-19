@@ -48,7 +48,7 @@ header:
     url: /research.html
 
   - titles:
-      # @start locale config
+        # @start locale config
       en      : &EN       Publications
       en-GB   : *EN
       en-US   : *EN
@@ -63,9 +63,9 @@ header:
       # @end locale config
     url: /publications.html
 
-      - titles:
+  - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Archives
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
