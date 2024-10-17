@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am giving courses in both engineering school Polytech Nantes and the Computer Science Master, more specifically in the international Data Science track (courses given in English).
+Here is a list of the courses I am in charge :
 
-Organize your courses by years, topics, or universities, however you like!
+- Logic for Computer Science (L3 level)
+- Exploratory Data Analysis (M1 level)
+- Artificial intelligence (M1 level)
+- Machine learning (M1 level)
+- Reinforcement learning (M1 level)
+- Machine learning on graphs (M2 level)
+- Graphical models (M2 level)
+
