@@ -22,6 +22,6 @@ Since 2011, I am Ass. Professor of Computer Science at Nantes Université, Polyt
 
 I am doing my research with the [LS2N](https://www.ls2n.fr) lab, and more specifically with the DUKe research team.
 
-My general research area is applied machine learning for comparing and learning representation of complex data.
+My general research area is applied machine learning for *comparing and learning representation of complex data*.
 I am also interested in the general thematic of equity, fairness, transparency and explainability of AI models.
 Applications particularly include Open Educationnal Ressources and  their easy usability for any user. You can check my [publications page](/publications) for more information !
