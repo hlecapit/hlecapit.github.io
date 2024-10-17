@@ -17,8 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Since 2011, I am Ass. Professor of Computer Science at Nantes Université, Polytech Nantes. I am the head the [Data Science Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/data-science-masters-degree-ds) program since 2017. Before that, I obtained my PhD in 2009, University of La Rochelle, France.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am doing my research with the [LS2N](https://www.ls2n.fr) lab, and more specifically with the DUKe research team.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My general research area is applied machine learning for comparing and learning representation of complex data.
+I am also interested in the general thematic of equity, fairness, transparency and explainability of AI models.
+Applications particularly include Open Educationnal Ressources and  their easy usability for any user. 
+
+Check the [publications page](publications) for more details on my research!
