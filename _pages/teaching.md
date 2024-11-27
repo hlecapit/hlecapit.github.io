@@ -14,7 +14,7 @@ Here is a list of the courses I am in charge :
 - Exploratory Data Analysis (M1 level)
 - Artificial intelligence (M1 level)
 - Machine learning (M1 level)
-- Reinforcement learning (M1 level)
+- Reinforcement learning (M1 and M2 level)
 - Machine learning on graphs (M2 level)
 - Graphical models (M2 level)
 
