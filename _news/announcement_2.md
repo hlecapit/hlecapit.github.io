@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Looking for two 6 month interns on fairness in graphs
-date: 2015-12-07 16:11:00-0400
+date: 2024-12-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
