@@ -25,6 +25,6 @@ We are looking two 6 month interns on fairness in graphs, more precisely :
 
 Feel free to contact me if your are interested !
 
-> The first position is already filled !
+> The two positions are now filled.
 
 
