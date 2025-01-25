@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I defended  my research  habilitation (HDR), titled *Comparison and representation learning of complex objects*. The document is available [here](https://hal.science/tel-04859155).
+I defended  my research  habilitation (HDR), titled *Comparison and representation learning of complex data*. The document is available [here](https://hal.science/tel-04859155) (in French).
