@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:    
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 I am giving courses in both engineering school Polytech Nantes and the Computer Science Master, more specifically in the international Data Science track (courses given in English).
