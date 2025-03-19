@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Aymen just defended his PhD thesis, titled **Combining educational resources using graph representation learning**. Congratulations, Dr. Aymen!
+Aymen Bazouzi just defended his PhD thesis, titled **Combining educational resources using graph representation learning**. Congratulations, Dr. Aymen!
